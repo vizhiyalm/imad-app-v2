@@ -55,7 +55,7 @@ ul,li {list-style-type:none;}
 .label h3{font-size: 16px;bottom: 0;left: 0;margin: auto;position: absolute;right: 0;top: 0;height: 55px}
 .back{background-color:#0f9d58;padding:5px 10px;color:#fff;float:right;}
 
-.line{ border-bottom:2px solid #0f9d58;width:60px;position:absolute;top:130px; }
+.line{ border-bottom:2px solid #0f9d58;width:60px;position:absolute;top:100px; }
 .comments ,.prof,.education,.crs,#comment_form,.logreg {position:relative;}
 .grnline{ border-bottom:2px solid #0f9d58;width:60px;position:absolute;top:60px;}
 .topic{padding:30px 0 12px 40px;}
