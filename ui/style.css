@@ -4,7 +4,7 @@ body{ margin: 0 auto; font-family: raleway; color: #333333;background-color:#efe
 a {text-decoration:none; color: #444444;}
 ul,li {list-style-type:none;}
 
-#mainDiv{padding:10px 30px ; position:relative;overflow:hidden;}
+#mainDiv{padding:30px 30px ; position:relative;overflow:hidden;}
 
 .left a, h3{font-size: 16px; color: #333333; font-weight: bold;letter-spacing: 1px}
 
